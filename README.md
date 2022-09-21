@@ -1,3 +1,3 @@
 поехали
 
-<img src="ufo.png" alt="drawing" width="400"/>
+<img src="ufox.png" alt="drawing" width="400"/>
